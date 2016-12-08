@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.0.0
 MinimumVisualStudioVersion = 10.0.0.1
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "X.SEOAnalyzer", "X.SEOAnalyzer/X.SEOAnalyzer.xproj", "{34D131B9-FE85-4529-848D-1CA341BEE3EC}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "X.SEOAnalyzer.UnitTest", "X.SEOAnalyzer.UnitTest\X.SEOAnalyzer.UnitTest.xproj", "{54D8BCCF-38A4-45F6-BCB7-2EC129FAC685}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{34D131B9-FE85-4529-848D-1CA341BEE3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34D131B9-FE85-4529-848D-1CA341BEE3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34D131B9-FE85-4529-848D-1CA341BEE3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54D8BCCF-38A4-45F6-BCB7-2EC129FAC685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D8BCCF-38A4-45F6-BCB7-2EC129FAC685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D8BCCF-38A4-45F6-BCB7-2EC129FAC685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D8BCCF-38A4-45F6-BCB7-2EC129FAC685}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
